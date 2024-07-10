@@ -6,7 +6,7 @@ import React, { useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
 import Link from 'next/link';
 import PerfectScrollbar from 'react-perfect-scrollbar';
-import Dropdown from '@/components/Dropdown';
+import Dropdown from '@/components/dropdown';
 
 import IconNetflix from '@/components/icon/icon-netflix';
 import IconArrowLeft from '@/components/icon/icon-arrow-left';
